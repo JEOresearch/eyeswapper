@@ -7,4 +7,4 @@ The webcam version allows you to swap your eyes live during Zoom/Teams/Google Me
 
 Requires OpenCV and pyvirtualcam for the webcam version.
 
-To help support this software and other open-source projects, please consider subscribing to my YouTube channel: https://www.youtube.com/@jeoresearch
+To help support this software and other open-source projects, please consider subscribing to my YouTube channel: https://www.youtube.com/@jeoresearch, or joining for $1 per month: https://www.youtube.com/@jeoresearch/join. 
